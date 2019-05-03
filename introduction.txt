@@ -1,0 +1,2 @@
+here we discuss abount  the various aspect of video analystics , implementation of deep learning ,convolution network , rnn, nlp and the various 
+aspect of machine learning and predictive analytics 
